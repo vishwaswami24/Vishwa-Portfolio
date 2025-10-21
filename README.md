@@ -1,7 +1,7 @@
 # Vishwa Swami Portfolio
 
-![Portfolio Screenshot](<img width="1897" height="927" alt="Screenshot 2025-06-06 153518" src="https://github.com/user-attachments/assets/20aa7684-e561-4516-8b34-76a7a21831aa" />
-)
+<img width="1897" height="927" alt="Screenshot 2025-06-06 153518" src="https://github.com/user-attachments/assets/ae17e217-fb12-482d-9bad-26936c78012a" />
+
 
 A personal portfolio website showcasing the skills, projects, and contact information of Vishwa Swami, a web developer from Pune, India.
 
