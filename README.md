@@ -98,7 +98,7 @@ Email: swamivishwa0@gmail.com
 Phone: +91 88305 63495  
 Location: Near Bidve Engineering College, Barshi Road, Latur, MH - 413512  
 
-- [Twitter](https://x.com/vishwaswami24)
+- [Twitter](https://x.com/vishwaswami24){:target="_blank"}
 - [Facebook](https://www.facebook.com/vishwa.swami.739266/)
 - [Instagram](https://www.instagram.com/__vishwa_24/)
 - [LinkedIn](https://www.linkedin.com/in/vishwa-swami24/)
